@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>fr</string>
+    <key>CFBundleLocalizations</key>
+    <array>
+        <string>fr</string>
+    </array>
+    <key>CFBundleIdentifier</key>
+    <string>com.axel.dynamicisland</string>
+    <key>CFBundleName</key>
+    <string>Dynamic Island</string>
+    <key>CFBundleDisplayName</key>
+    <string>Dynamic Island</string>
+    <key>CFBundleExecutable</key>
+    <string>DynamicIsland</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Dynamic Island annonce la connexion de vos AirPods et autres appareils Bluetooth.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Dynamic Island affiche votre prochain événement et vous prévient 5 minutes avant.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Dynamic Island affiche votre prochain événement et vous prévient 5 minutes avant.</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>Dynamic Island affiche vos rappels, vous alerte à l'échéance et vous permet de les cocher.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Dynamic Island affiche vos rappels, vous alerte à l'échéance et vous permet de les cocher.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Dynamic Island contrôle Musique et Spotify (lecture, pause, pistes) et affiche la pochette.</string>
+</dict>
+</plist>
